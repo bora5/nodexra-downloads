@@ -18,7 +18,7 @@ Ovo izdanje je pripremljeno za tehničko testiranje; objavljivanje ne predstavlj
 
 [Preuzimanje Linux x64 i macOS Apple Silicon/Intel paketa](https://github.com/bora5/nodexra-downloads/releases/tag/lpfr-v1.0.0-linux-macos-test-20261027)
 
-- **Linux x64:** DEB (Ubuntu 24.04) ili TAR.GZ.
+- **Linux x64:** DEB (Ubuntu 24.04) ili TAR.GZ. Oba paketa uključuju OpenSC 0.27.1; aplikacija automatski koristi svoju biblioteku. PC/SC i ostale sistemske zavisnosti instaliraju se kroz DEB.
 - **macOS Apple Silicon:** arm64 DMG ili PKG.
 - **macOS Intel:** x64 DMG ili PKG.
 
