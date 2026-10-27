@@ -22,7 +22,7 @@ Ovo izdanje je pripremljeno za tehničko testiranje; objavljivanje ne predstavlj
 - **macOS Apple Silicon:** arm64 DMG ili PKG.
 - **macOS Intel:** x64 DMG ili PKG.
 
-Java je uključena. Preuzeti i `PROCITAJ.txt` i `SHA256SUMS.txt` sa stranice izdanja. Za Mac je potrebna zasebna instalacija OpenSC-a; Mac paketi nisu Apple Developer ID potpisani niti notarizovani. Svaka instalacija zahteva svoju važeću licencu.
+Java je uključena. Preuzeti i `PROCITAJ.txt` i `SHA256SUMS.txt` sa stranice izdanja. Mac PKG uključuje OpenSC 0.27.1 uz aplikaciju; otvoriti PKG iz DMG-a i pratiti jedan instalacioni čarobnjak sa administratorskom potvrdom. Isti ili noviji zvanično instalirani OpenSC se zadržava; Mac paketi nisu Apple Developer ID potpisani niti notarizovani. Svaka instalacija zahteva svoju važeću licencu.
 
 Ovo izdanje služi za testiranje i odvojeno je od prijave Poreskoj upravi 1773, koja ostaje ograničena na Windows x64.
 
