@@ -2,7 +2,7 @@
 
 Zvanična distribucija instalacija i prateće dokumentacije za Nodexra aplikacije, Euromedicina doo.
 
-## Nodexra L-PFR 1.0.0
+## Nodexra L-PFR 1.0.0 - Windows x64
 
 [Instalacija i paket za tehničko testiranje — build 27.10.2026.](https://github.com/bora5/nodexra-downloads/releases/tag/lpfr-v1.0.0-20261027)
 
@@ -13,6 +13,18 @@ Datoteke se preuzimaju iz odeljka **Assets** na stranici izdanja, bez GitHub pri
 - `SHA256SUMS.txt` — SHA-256 kontrolne sume objavljenih datoteka.
 
 Ovo izdanje je pripremljeno za tehničko testiranje; objavljivanje ne predstavlja potvrdu odobrenja proizvoda za produkcionu upotrebu.
+
+## Linux i macOS - testno izdanje
+
+[Preuzimanje Linux x64 i macOS Apple Silicon/Intel paketa](https://github.com/bora5/nodexra-downloads/releases/tag/lpfr-v1.0.0-linux-macos-test-20261027)
+
+- **Linux x64:** DEB (Ubuntu 24.04) ili TAR.GZ.
+- **macOS Apple Silicon:** arm64 DMG ili PKG.
+- **macOS Intel:** x64 DMG ili PKG.
+
+Java je uključena. Preuzeti i `PROCITAJ.txt` i `SHA256SUMS.txt` sa stranice izdanja. Za Mac je potrebna zasebna instalacija OpenSC-a; Mac paketi nisu Apple Developer ID potpisani niti notarizovani. Svaka instalacija zahteva svoju važeću licencu.
+
+Ovo izdanje služi za testiranje i odvojeno je od prijave Poreskoj upravi 1773, koja ostaje ograničena na Windows x64.
 
 ## Aktivacija za tehnički pregled
 
